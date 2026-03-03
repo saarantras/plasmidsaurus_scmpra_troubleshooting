@@ -1,0 +1,1831 @@
+<p><!--
+QBlastInfoBegin
+	Status=READY
+QBlastInfoEnd
+--><p>
+<PRE>
+
+BLASTN 2.17.0+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+RID: UC1XEFYE016
+
+
+Database: Core nucleotide BLAST database
+           122,348,708 sequences; 1,068,532,645,866 total letters
+Query= q
+
+Length=41
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+5AJ0_B1 Chain B1, 18S ribosomal RNA                                66.2    1e-09  95%       
+K03432.1 Human 18S rRNA gene                                       66.2    1e-09  95%       
+NR_146144.1 Homo sapiens RNA, 45S pre-ribosomal N2 (RNA45SN2),...  66.2    1e-09  95%       
+7TQL_2 Chain 2, 18S ribosomal RNA                                  66.2    1e-09  95%       
+NG_054871.1 Homo sapiens RNA, 18S ribosomal pseudogene 3 (RNA1...  66.2    1e-09  95%       
+6ZXF_2 Chain 2, pre-18S ribosomal RNA                              66.2    1e-09  95%       
+6ZV6_2 Chain 2, 18S ribosomal RNA                                  66.2    1e-09  95%       
+MF164261.1 Homo sapiens clone BAC JH14 genomic sequence            66.2    1e-09  95%       
+6FEC_A Chain A, 18S ribosomal RNA                                  66.2    1e-09  95%       
+9S3C_S2 Chain S2, 18S rRNA                                         66.2    1e-09  95%       
+KC876027.1 Homo sapiens clone N29M24 sequence                      66.2    1e-09  95%       
+NR_145819.1 Homo sapiens RNA, 45S pre-ribosomal N1 (RNA45SN1),...  66.2    1e-09  95%       
+AL592188.60 Human DNA sequence from clone RP11-337M7, complete...  66.2    1e-09  95%       
+MF164264.1 Homo sapiens clone BAC JH4 genomic sequence             66.2    1e-09  95%       
+7MQ9_L1 Chain L1, 18S rRNA                                         66.2    1e-09  95%       
+6ZOJ_2 Chain 2, 18S ribosomal RNA                                  66.2    1e-09  95%       
+MT497460.1 Homo sapiens clone BAC JH42 genomic sequence            66.2    1e-09  95%       
+AK075058.1 Homo sapiens cDNA FLJ90577 fis, clone OVARC1002058      66.2    1e-09  95%       
+KC876029.1 Homo sapiens clone LA14_101B3 sequence                  66.2    1e-09  95%       
+6OLG_B1 Chain B1, 18S ribosomal RNA                                66.2    1e-09  95%       
+M10098.1 Human 18S rRNA gene, complete                             66.2    1e-09  95%       
+AY942937.1 Homo sapiens clone C916 differentially methylated C...  66.2    1e-09  95%       
+MT497459.1 Homo sapiens clone BAC JH6 genomic sequence             66.2    1e-09  95%       
+XR_007084308.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC1...  66.2    1e-09  95%       
+9S3B_S2 Chain S2, 18S rRNA                                         66.2    1e-09  95%       
+AC136932.4 Homo sapiens chromosome 16 clone CTD-2522B17, compl...  66.2    1e-09  95%       
+MF164268.1 Homo sapiens clone BAC JH12 genomic sequence            66.2    1e-09  95%       
+BC025983.1 Homo sapiens cDNA clone IMAGE:4025331, **** WARNING...  66.2    1e-09  95%       
+FP236383.15 Human DNA sequence from clone CH507-528H12 on chro...  66.2    1e-09  95%       
+KC876030.1 Homo sapiens clone LA13_165F6 sequence                  66.2    1e-09  95%       
+AL353644.34 Human DNA sequence from clone RP11-164K15 on chrom...  66.2    1e-09  95%       
+6ZON_2 Chain 2, 18S ribosomal RNA                                  66.2    1e-09  95%       
+NG_054751.1 Homo sapiens RNA, 18S ribosomal pseudogene (LOC110...  66.2    1e-09  95%       
+AC270088.1 Homo sapiens BAC clone CH17-390E16 from chromosome ...  66.2    1e-09  95%       
+KC876028.1 Homo sapiens clone LA15_25H3 sequence                   66.2    1e-09  95%       
+XR_007085225.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC1...  66.2    1e-09  95%       
+NG_054875.1 Homo sapiens RNA, 18S ribosomal pseudogene 5 (RNA1...  66.2    1e-09  95%       
+MF164258.1 Homo sapiens clone BAC JH11 genomic sequence            66.2    1e-09  95%       
+6IP5_2m Chain 2m, 18S ribosomal RNA                                66.2    1e-09  95%       
+8UJ9_S2 Chain S2, 18S rRNA [Homo sapiens]                          66.2    1e-09  95%       
+9QLO_S2 Chain S2, 18S rRNA                                         66.2    1e-09  95%       
+NG_055296.1 Homo sapiens RNA, 18S ribosomal pseudogene (LOC110...  66.2    1e-09  95%       
+AL162451.16 Human DNA sequence from clone RP11-145C1, complete...  66.2    1e-09  95%       
+MT497461.1 Homo sapiens genomic sequence                           66.2    1e-09  95%       
+CT476837.18 Human DNA sequence from clone CH507-146P16 on chro...  66.2    1e-09  95%       
+7WTT_2 Chain 2, 18S rRNA                                           66.2    1e-09  95%       
+8ZDC_2 Chain 2, 18S rRNA                                           66.2    1e-09  95%       
+AK225942.1 Homo sapiens mRNA for abhydrolase domain containing...  66.2    1e-09  95%       
+MF164267.1 Homo sapiens clone BAC JH8 genomic sequence             66.2    1e-09  95%       
+3J3D_2 Chain 2, 18S ribosomal RNA                                  66.2    1e-09  95%       
+8UKB_S2 Chain S2, 18S rRNA                                         66.2    1e-09  95%       
+6ZVH_2 Chain 2, 18S rRNA                                           66.2    1e-09  95%       
+5A2Q_2 Chain 2, 18S RRNA                                           66.2    1e-09  95%       
+NR_146117.1 Homo sapiens RNA, 45S pre-ribosomal N4 (RNA45SN4),...  66.2    1e-09  95%       
+XR_007086113.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC1...  66.2    1e-09  95%       
+BC004328.1 Homo sapiens succinate dehydrogenase complex, subun...  66.2    1e-09  95%       
+7A09_2 Chain 2, 18S ribosomal RNA                                  66.2    1e-09  95%       
+AK300665.1 Homo sapiens cDNA FLJ55420 complete cds, highly sim...  66.2    1e-09  95%       
+MF164259.1 Homo sapiens clone BAC JH18 genomic sequence            66.2    1e-09  95%       
+MT328572.1 Homo sapiens clone bc2 small subunit ribosomal RNA ...  66.2    1e-09  95%       
+MT497387.1 Homo sapiens clone BAC JH13 genomic sequence            66.2    1e-09  95%       
+6ZUO_2 Chain 2, pre-18S ribosomal RNA                              66.2    1e-09  95%       
+AK074627.1 Homo sapiens cDNA FLJ90146 fis, clone HEMBB1001623,...  66.2    1e-09  95%       
+9QLQ_S2 Chain S2, 18S rRNA                                         66.2    1e-09  95%       
+X03205.1 Human 18S ribosomal RNA                                   66.2    1e-09  95%       
+NR_146151.1 Homo sapiens RNA, 45S pre-ribosomal N3 (RNA45SN3),...  66.2    1e-09  95%       
+6G4S_2 Chain 2, pre-18S ribosomal RNA                              66.2    1e-09  95%       
+XM_047442803.1 PREDICTED: Homo sapiens translation initiation ...  66.2    1e-09  95%       
+NR_146119.1 Homo sapiens RNA, 18S ribosomal N4 (RNA18SN4), rib...  66.2    1e-09  95%       
+AC231275.2 Homo sapiens FOSMID clone ABC12-46987300E12 from ch...  66.2    1e-09  95%       
+AK129999.1 Homo sapiens cDNA FLJ26489 fis, clone KDN05855          66.2    1e-09  95%       
+9QLP_S2 Chain S2, 18S rRNA                                         66.2    1e-09  95%       
+NG_054873.1 Homo sapiens RNA, 18S ribosomal pseudogene 4 (RNA1...  66.2    1e-09  95%       
+U13369.1 Human ribosomal DNA complete repeating unit               66.2    1e-09  95%       
+NR_046235.3 Homo sapiens RNA, 45S pre-ribosomal N5 (RNA45SN5),...  66.2    1e-09  95%       
+NR_145820.1 Homo sapiens RNA, 18S ribosomal N1 (RNA18SN1), rib...  66.2    1e-09  95%       
+6G18_2 Chain 2, pre-18S ribosomal RNA                              66.2    1e-09  95%       
+5OA3_2 Chain 2, 18S ribosomal RNA                                  66.2    1e-09  95%       
+MF164260.1 Homo sapiens clone BAC JH15 genomic sequence            66.2    1e-09  95%       
+9S3D_S2 Chain S2, 18S rRNA                                         66.2    1e-09  95%       
+MF164269.1 Homo sapiens clone BAC JH1 genomic sequence             66.2    1e-09  95%       
+KY962518.1 Homo sapiens external transcribed spacer 18S riboso...  66.2    1e-09  95%       
+MF164266.1 Homo sapiens clone BAC JH5 genomic sequence             66.2    1e-09  95%       
+6ZVJ_2 Chain 2, 18S ribosomal RNA                                  66.2    1e-09  95%       
+AC129664.7 Homo sapiens BAC clone RP11-237A9 from 4, complete ...  64.4    4e-09  95%       
+9BKD_A Chain A, 18S rRNA                                           62.6    1e-08  93%       
+6YBW_A Chain A, 18S rRNA                                           62.6    1e-08  93%       
+8PJ1_A Chain A, 18S rRNA                                           62.6    1e-08  93%       
+7XNY_S2 Chain S2, 18S rRNA                                         62.6    1e-08  93%       
+7XNX_S2 Chain S2, 18S rRNA                                         62.6    1e-08  93%       
+6QZP_S2 Chain S2, 18S rRNA (1740-MER)                              62.6    1e-08  93%       
+7QP6_A Chain A, 18S rRNA                                           62.6    1e-08  93%       
+8OZ0_W Chain W, 18S rRNA                                           62.6    1e-08  93%       
+6OLE_S2 Chain S2, 18S ribosomal RNA                                62.6    1e-08  93%       
+6EK0_S2 Chain S2, 18S ribosomal RNA                                62.6    1e-08  93%       
+9I14_S2 Chain S2, SSU 18S rRNA                                     62.6    1e-08  93%       
+NG_055292.1 Homo sapiens RNA, 18S ribosomal pseudogene (LOC110...  61.7    5e-08  93%       
+NG_055294.1 Homo sapiens RNA, 18S ribosomal pseudogene (LOC110...  61.7    5e-08  93%       
+JX132355.1 Homo sapiens isolate CEss668 18S ribosomal RNA gene...  61.7    5e-08  93%       
+NG_055291.1 Homo sapiens RNA, 18S ribosomal pseudogene (LOC110...  61.7    5e-08  93%       
+
+ALIGNMENTS
+>5AJ0_B1 Chain B1, 18S ribosomal RNA
+ 8XXL_S2 Chain S2, 18S rRNA
+ 8XXM_S2 Chain S2, 18S rRNA
+ 8ZDB_2 Chain 2, 18S rRNA
+Length=1869
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  625
+
+
+>K03432.1 Human 18S rRNA gene
+Length=2235
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  805  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  765
+
+
+>NR_146144.1 Homo sapiens RNA, 45S pre-ribosomal N2 (RNA45SN2), ribosomal 
+RNA
+Length=13315
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1     CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+             ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  4308  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  4268
+
+
+>7TQL_2 Chain 2, 18S ribosomal RNA
+Length=1656
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  589  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  549
+
+
+>NG_054871.1 Homo sapiens RNA, 18S ribosomal pseudogene 3 (RNA18SP3) on chromosome 
+13
+Length=2069
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  765  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  725
+
+
+>6ZXF_2 Chain 2, pre-18S ribosomal RNA
+Length=1874
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  625
+
+
+>6ZV6_2 Chain 2, 18S ribosomal RNA
+Length=1869
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  625
+
+
+>MF164261.1 Homo sapiens clone BAC JH14 genomic sequence
+Length=89130
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1     CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+             ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  2382  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  2342
+
+
+>6FEC_A Chain A, 18S ribosomal RNA
+Length=1776
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  632  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  592
+
+
+>9S3C_S2 Chain S2, 18S rRNA
+Length=1869
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  625
+
+
+>KC876027.1 Homo sapiens clone N29M24 sequence
+Length=45878
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Plus
+
+Query  1      CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+              ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  34394  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  34434
+
+
+>NR_145819.1 Homo sapiens RNA, 45S pre-ribosomal N1 (RNA45SN1), ribosomal 
+RNA
+Length=13351
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1     CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+             ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  4319  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  4279
+
+
+>AL592188.60 Human DNA sequence from clone RP11-337M7, complete sequence
+Length=161802
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1       CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+               ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  109742  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  109702
+
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1       CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+               ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  153714  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  153674
+
+
+>MF164264.1 Homo sapiens clone BAC JH4 genomic sequence
+Length=61044
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1      CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+              ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  19443  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  19403
+
+
+>7MQ9_L1 Chain L1, 18S rRNA
+Length=1872
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  625
+
+
+>6ZOJ_2 Chain 2, 18S ribosomal RNA
+ 6ZOK_2 Chain 2, 18S ribosomal RNA
+ 8T4S_2 Chain 2, 18S rRNA
+Length=1869
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  625
+
+
+>MT497460.1 Homo sapiens clone BAC JH42 genomic sequence
+Length=60357
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Plus
+
+Query  1      CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+              ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  59986  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  60026
+
+
+>AK075058.1 Homo sapiens cDNA FLJ90577 fis, clone OVARC1002058
+Length=2756
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1     CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+             ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  1609  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  1569
+
+
+>KC876029.1 Homo sapiens clone LA14_101B3 sequence
+Length=39640
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Plus
+
+Query  1      CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+              ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  29274  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  29314
+
+
+>6OLG_B1 Chain B1, 18S ribosomal RNA
+ 6OLZ_B1 Chain B1, 18S ribosomal RNA
+Length=1708
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  610  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  570
+
+
+>M10098.1 Human 18S rRNA gene, complete
+Length=1969
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  766  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  726
+
+
+>AY942937.1 Homo sapiens clone C916 differentially methylated CpG island 
+sequence
+Length=432
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  164  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  124
+
+
+>MT497459.1 Homo sapiens clone BAC JH6 genomic sequence
+Length=106037
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Plus
+
+Query  1     CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+             ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  3327  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  3367
+
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Plus
+
+Query  1      CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+              ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  48171  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  48211
+
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Plus
+
+Query  1      CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+              ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  97549  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  97589
+
+
+>XR_007084308.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907243), rRNA
+Length=1869
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  625
+
+
+>9S3B_S2 Chain S2, 18S rRNA
+Length=1869
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  625
+
+
+>AC136932.4 Homo sapiens chromosome 16 clone CTD-2522B17, complete sequence
+Length=171882
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Plus
+
+Query  1      CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+              ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  59988  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  60028
+
+
+>MF164268.1 Homo sapiens clone BAC JH12 genomic sequence
+Length=44249
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1     CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+             ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  2246  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  2206
+
+
+>BC025983.1 Homo sapiens cDNA clone IMAGE:4025331, **** WARNING: chimeric 
+clone ****
+Length=2413
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  638  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  598
+
+
+>FP236383.15 Human DNA sequence from clone CH507-528H12 on chromosome 21, 
+complete sequence
+Length=161389
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1      CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+              ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  82359  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  82319
+
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1       CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+               ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  126569  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  126529
+
+
+>KC876030.1 Homo sapiens clone LA13_165F6 sequence
+Length=36220
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Plus
+
+Query  1      CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+              ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  22185  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  22225
+
+
+>AL353644.34 Human DNA sequence from clone RP11-164K15 on chromosome 22, complete 
+sequence
+Length=179772
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1       CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+               ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  126595  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  126555
+
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1       CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+               ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  171676  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  171636
+
+
+>6ZON_2 Chain 2, 18S ribosomal RNA
+ 6ZP4_2 Chain 2, 18S ribosomal RNA
+Length=1868
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  625
+
+
+>NG_054751.1 Homo sapiens RNA, 18S ribosomal pseudogene (LOC110262331) on 
+chromosome 16
+Length=2065
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  767  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  727
+
+
+>AC270088.1 Homo sapiens BAC clone CH17-390E16 from chromosome 16, complete 
+sequence
+Length=88635
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Plus
+
+Query  1     CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+             ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  5078  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  5118
+
+
+>KC876028.1 Homo sapiens clone LA15_25H3 sequence
+Length=37891
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Plus
+
+Query  1      CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+              ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  37451  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  37491
+
+
+>XR_007085225.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907457), rRNA
+Length=1896
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  625
+
+
+>NG_054875.1 Homo sapiens RNA, 18S ribosomal pseudogene 5 (RNA18SP5) on chromosome 
+21
+Length=2063
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  762  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  722
+
+
+>MF164258.1 Homo sapiens clone BAC JH11 genomic sequence
+Length=84611
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1     CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+             ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  2247  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  2207
+
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1      CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+              ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  42602  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  42562
+
+
+>6IP5_2m Chain 2m, 18S ribosomal RNA
+ 6IP6_2m Chain 2m, 18S ribosomal RNA
+ 6IP8_2m Chain 2m, 18S ribosomal RNA
+ 5LKS_S2 Chain S2, 18S ribosomal RNA
+ 5T2C_AA Chain AA, 18S rRNA
+ 4UG0_S2 Chain S2, 18S ribosomal RNA
+ 5VYC_i1 Chain i1, Human 18S ribosomal RNA
+ 5VYC_i2 Chain i2, Human 18S ribosomal RNA
+ 5VYC_i3 Chain i3, Human 18S ribosomal RNA
+ 5VYC_i4 Chain i4, Human 18S ribosomal RNA
+ 5VYC_i5 Chain i5, Human 18S ribosomal RNA
+ 5VYC_i6 Chain i6, Human 18S ribosomal RNA
+ 6Y0G_S2 Chain S2, 18S ribosomal RNA
+ 6Y2L_S2 Chain S2, 18S ribosomal RNA
+ 6Y57_S2 Chain S2, 18S ribosomal RNA
+ 8IFD_2m Chain 2m, 18S ribosomal RNA
+ 8IFE_2m Chain 2m, 18S ribosomal RNA
+ 8K2C_S2 Chain S2, 18S rRNA
+ 8XSY_S2 Chain S2, 18S rRNA
+ 8XSZ_S2 Chain S2, 18S rRNA
+ 8YOO_S2 Chain S2, 18S rRNA
+ 8YOP_S2 Chain S2, 18S rRNA
+ 9G8O_S2 Chain S2, 18S ribosomal RNA
+ 9G8M_S2 Chain S2, 18S ribosomal RNA
+ 8XP2_S2 Chain S2, 18S rRNA
+ 8XP3_S2 Chain S2, 18S rRNA
+ 9M0P_S2 Chain S2, 18S ribosomal RNA|HOMO SAPIENS
+Length=1869
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  625
+
+
+>8UJ9_S2 Chain S2, 18S rRNA [Homo sapiens]
+Length=1870
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  625
+
+
+>9QLO_S2 Chain S2, 18S rRNA
+Length=1869
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  625
+
+
+>NG_055296.1 Homo sapiens RNA, 18S ribosomal pseudogene (LOC110467537) on 
+chromosome 15
+Length=2069
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  771  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  731
+
+
+>AL162451.16 Human DNA sequence from clone RP11-145C1, complete sequence
+Length=156963
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Plus
+
+Query  1      CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+              ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  55598  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  55638
+
+
+>MT497461.1 Homo sapiens genomic sequence
+Length=178804
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Plus
+
+Query  1      CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+              ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  59986  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  60026
+
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Plus
+
+Query  1       CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+               ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  104842  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  104882
+
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Plus
+
+Query  1       CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+               ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  154219  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  154259
+
+
+>CT476837.18 Human DNA sequence from clone CH507-146P16 on chromosome 21, 
+complete sequence
+Length=130114
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1      CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+              ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  98369  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  98329
+
+
+>7WTT_2 Chain 2, 18S rRNA
+ 7WTU_2 Chain 2, 18S rRNA
+ 7WTV_2 Chain 2, 18S rRNA
+ 7WTW_2 Chain 2, 18S rRNA
+Length=1873
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  625
+
+
+>8ZDC_2 Chain 2, 18S rRNA
+ 8ZDD_2 Chain 2, 18S rRNA
+Length=1873
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  625
+
+
+>AK225942.1 Homo sapiens mRNA for abhydrolase domain containing 6 variant, 
+clone: FCC116A04
+Length=2716
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  610  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  570
+
+
+>MF164267.1 Homo sapiens clone BAC JH8 genomic sequence
+Length=44299
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1     CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+             ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  2205  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  2165
+
+
+>3J3D_2 Chain 2, 18S ribosomal RNA
+Length=1869
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  625
+
+
+>8UKB_S2 Chain S2, 18S rRNA
+ 9B0Q_s2 Chain s2, 18S rRNA [Homo sapiens]
+ 9B0Q_S2 Chain S2, 18S rRNA [Homo sapiens]
+ 9B0S_s2 Chain s2, 18S rRNA [Homo sapiens]
+ 9B0S_S2 Chain S2, 18S rRNA [Homo sapiens]
+ 8UIZ_S2 Chain S2, 18S rRNA [Homo sapiens]
+ 8UJJ_S2 Chain S2, 18S rRNA
+ 8UJK_S2 Chain S2, 18S rRNA
+ 8UIK_S2 Chain S2, 18S rRNA
+ 8UJB_S2 Chain S2, 18S rRNA
+ 9AZC_S2 Chain S2, 18S rRNA
+ 9AZM_S2 Chain S2, 18S rRNA
+ 9AZN_S2 Chain S2, 18S rRNA
+ 9AZN_S3 Chain S3, 18S rRNA
+ 9AZS_S2 Chain S2, 18S rRNA
+ 9B0J_S2 Chain S2, 18S rRNA
+ 9B0N_S2 Chain S2, 18S rRNA
+ 9B0O_S2 Chain S2, 18S rRNA
+ 9B0W_S2 Chain S2, 18S rRNA
+ 9B11_S2 Chain S2, 18S rRNA
+Length=1740
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  604  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  564
+
+
+>6ZVH_2 Chain 2, 18S rRNA
+Length=1740
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  604  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  564
+
+
+>5A2Q_2 Chain 2, 18S RRNA
+ 6G5H_2 Chain 2, 18S ribosomal RNA
+ 6ZLW_2 Chain 2, 18S ribosomal RNA
+ 6ZN5_2 Chain 2, 18S ribosomal RNA
+ 6ZMT_2 Chain 2, 18S ribosomal RNA
+ 7K5I_2 Chain 2, 40S ribosomal rRNA18S
+Length=1868
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  625
+
+
+>NR_146117.1 Homo sapiens RNA, 45S pre-ribosomal N4 (RNA45SN4), ribosomal 
+RNA
+Length=13373
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1     CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+             ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  4323  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  4283
+
+
+>XR_007086113.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907654), rRNA
+Length=1872
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  625
+
+
+>BC004328.1 Homo sapiens succinate dehydrogenase complex, subunit A, flavoprotein 
+(Fp), mRNA (cDNA clone IMAGE:3630385), **** WARNING: 
+chimeric clone ****
+Length=1961
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  187  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  147
+
+
+>7A09_2 Chain 2, 18S ribosomal RNA
+Length=1721
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  588  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  548
+
+
+>AK300665.1 Homo sapiens cDNA FLJ55420 complete cds, highly similar to Troponin 
+C, skeletal muscle
+Length=852
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  819  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  779
+
+
+>MF164259.1 Homo sapiens clone BAC JH18 genomic sequence
+Length=44525
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1     CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+             ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  2380  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  2340
+
+
+>MT328572.1 Homo sapiens clone bc2 small subunit ribosomal RNA gene, partial 
+sequence
+Length=425
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1   CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+           ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  52  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  12
+
+
+>MT497387.1 Homo sapiens clone BAC JH13 genomic sequence
+Length=126918
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Plus
+
+Query  1     CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+             ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  8100  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  8140
+
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Plus
+
+Query  1      CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+              ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  52956  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  52996
+
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Plus
+
+Query  1       CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+               ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  102333  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  102373
+
+
+>6ZUO_2 Chain 2, pre-18S ribosomal RNA
+Length=1870
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  625
+
+
+>AK074627.1 Homo sapiens cDNA FLJ90146 fis, clone HEMBB1001623, highly similar 
+to Probable G-protein coupled receptor 34
+Length=2063
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  123  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  83
+
+
+>9QLQ_S2 Chain S2, 18S rRNA
+Length=1869
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  625
+
+
+>X03205.1 Human 18S ribosomal RNA
+ 5A8L_B Chain B, HUMAN 18S RIBOSOMAL RNA
+ 4V6X_B2 Chain B2, 18S ribosomal RNA
+ 6Z6L_S2 Chain S2, 18S rRNA
+ 6Z6M_S2 Chain S2, 18S rRNA
+ 6Z6N_S2 Chain S2, 18S rRNA
+ 7QVP_S2 Chain S2, 18S ribosomal RNA
+ 7QVP_S3 Chain S3, 18S ribosomal RNA
+ 8Y0W_S2 Chain S2, 18S rRNA
+ 8Y0X_S2 Chain S2, 18S rRNA
+ 8XXN_S2 Chain S2, 18S rRNA
+ 8XSX_S2 Chain S2, 18S rRNA
+ 9B0F_S2 Chain S2, 18S rRNA
+ 9B0G_S2 Chain S2, 18S rRNA
+ 9B0H_S2 Chain S2, 18S rRNA
+ 9B0P_S2 Chain S2, 18S rRNA
+ 9B0R_S2 Chain S2, 18S rRNA
+ 9I2D_S2 Chain S2, 18S rRNA
+Length=1869
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  625
+
+
+>NR_146151.1 Homo sapiens RNA, 45S pre-ribosomal N3 (RNA45SN3), ribosomal 
+RNA
+Length=13309
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1     CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+             ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  4296  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  4256
+
+
+>6G4S_2 Chain 2, pre-18S ribosomal RNA
+ 6G4W_2 Chain 2, 18S ribosomal RNA
+ 6G51_2 Chain 2, 18S ribosomal RNA
+ 6G53_2 Chain 2, 18S ribosomal RNA
+ 6G5I_2 Chain 2, 18S ribosomal RNA
+Length=1882
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  625
+
+
+>XM_047442803.1 PREDICTED: Homo sapiens translation initiation factor IF-2-like 
+(LOC124905331), mRNA
+Length=2087
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Plus
+
+Query  1     CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+             ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  1988  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  2028
+
+
+>NR_146119.1 Homo sapiens RNA, 18S ribosomal N4 (RNA18SN4), ribosomal RNA
+ NR_146152.1 Homo sapiens RNA, 18S ribosomal N3 (RNA18SN3), ribosomal RNA
+ NR_146146.1 Homo sapiens RNA, 18S ribosomal N2 (RNA18SN2), ribosomal RNA
+ XR_007084224.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907161), rRNA
+ XR_007084225.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907162), rRNA
+ XR_007084226.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907163), rRNA
+ XR_007084227.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907164), rRNA
+ XR_007084228.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907165), rRNA
+ XR_007084229.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907166), rRNA
+ XR_007084230.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907167), rRNA
+ XR_007084232.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907168), rRNA
+ XR_007084233.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907169), rRNA
+ XR_007084234.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907170), rRNA
+ XR_007084235.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907171), rRNA
+ XR_007084238.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907173), rRNA
+ XR_007084239.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907174), rRNA
+ XR_007084240.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907175), rRNA
+ XR_007084241.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907176), rRNA
+ XR_007084242.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907177), rRNA
+ XR_007084243.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907178), rRNA
+ XR_007084244.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907179), rRNA
+ XR_007084245.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907180), rRNA
+ XR_007084246.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907181), rRNA
+ XR_007084247.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907182), rRNA
+ XR_007084249.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907184), rRNA
+ XR_007084250.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907185), rRNA
+ XR_007084251.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907186), rRNA
+ XR_007084252.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907187), rRNA
+ XR_007084253.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907188), rRNA
+ XR_007084254.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907189), rRNA
+ XR_007084255.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907190), rRNA
+ XR_007084256.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907191), rRNA
+ XR_007084257.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907192), rRNA
+ XR_007084258.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907193), rRNA
+ XR_007084260.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907195), rRNA
+ XR_007084261.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907196), rRNA
+ XR_007084262.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907197), rRNA
+ XR_007084263.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907198), rRNA
+ XR_007084264.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907199), rRNA
+ XR_007084265.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907200), rRNA
+ XR_007084266.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907201), rRNA
+ XR_007084267.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907202), rRNA
+ XR_007084268.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907203), rRNA
+ XR_007084269.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907204), rRNA
+ XR_007084271.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907206), rRNA
+ XR_007084272.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907207), rRNA
+ XR_007084273.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907208), rRNA
+ XR_007084274.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907209), rRNA
+ XR_007084275.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907210), rRNA
+ XR_007084276.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907211), rRNA
+ XR_007084277.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907212), rRNA
+ XR_007084278.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907213), rRNA
+ XR_007084279.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907214), rRNA
+ XR_007084280.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907215), rRNA
+ XR_007084282.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907217), rRNA
+ XR_007084283.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907218), rRNA
+ XR_007084284.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907219), rRNA
+ XR_007084285.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907220), rRNA
+ XR_007084286.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907221), rRNA
+ XR_007084287.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907222), rRNA
+ XR_007084288.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907223), rRNA
+ XR_007084289.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907224), rRNA
+ XR_007084290.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907225), rRNA
+ XR_007084291.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907226), rRNA
+ XR_007084293.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907228), rRNA
+ XR_007084294.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907229), rRNA
+ XR_007084295.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907230), rRNA
+ XR_007084296.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907231), rRNA
+ XR_007084297.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907232), rRNA
+ XR_007084298.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907233), rRNA
+ XR_007084299.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907234), rRNA
+ XR_007084300.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907235), rRNA
+ XR_007084301.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907236), rRNA
+ XR_007084302.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907237), rRNA
+ XR_007084304.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907239), rRNA
+ XR_007084305.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907240), rRNA
+ XR_007084306.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907241), rRNA
+ XR_007084307.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907242), rRNA
+ XR_007085209.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907441), rRNA
+ XR_007085210.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907442), rRNA
+ XR_007085211.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907443), rRNA
+ XR_007085212.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907444), rRNA
+ XR_007085213.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907445), rRNA
+ XR_007085214.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907446), rRNA
+ XR_007085215.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907447), rRNA
+ XR_007085216.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907448), rRNA
+ XR_007085217.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907449), rRNA
+ XR_007085219.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907451), rRNA
+ XR_007085220.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907452), rRNA
+ XR_007085221.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907453), rRNA
+ XR_007085222.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907454), rRNA
+ XR_007085223.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907455), rRNA
+ XR_007085224.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907456), rRNA
+ XR_007086055.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907601), rRNA
+ XR_007086056.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907602), rRNA
+ XR_007086057.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907603), rRNA
+ XR_007086059.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907604), rRNA
+ XR_007086060.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907605), rRNA
+ XR_007086061.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907606), rRNA
+ XR_007086062.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907607), rRNA
+ XR_007086063.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907608), rRNA
+ XR_007086064.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907609), rRNA
+ XR_007086065.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907610), rRNA
+ XR_007086067.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907612), rRNA
+ XR_007086068.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907613), rRNA
+ XR_007086069.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907614), rRNA
+ XR_007086070.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907615), rRNA
+ XR_007086071.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907616), rRNA
+ XR_007086072.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907617), rRNA
+ XR_007086073.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907618), rRNA
+ XR_007086074.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907619), rRNA
+ XR_007086075.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907620), rRNA
+ XR_007086076.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907621), rRNA
+ XR_007086078.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907623), rRNA
+ XR_007086080.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907624), rRNA
+ XR_007086081.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907625), rRNA
+ XR_007086082.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907626), rRNA
+ XR_007086083.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907627), rRNA
+ XR_007086084.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907628), rRNA
+ XR_007086085.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907629), rRNA
+ XR_007086086.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907630), rRNA
+ XR_007086087.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907631), rRNA
+ XR_007086088.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907632), rRNA
+ XR_007086090.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907634), rRNA
+ XR_007086091.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907635), rRNA
+ XR_007086092.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907636), rRNA
+ XR_007086093.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907637), rRNA
+ XR_007086094.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907638), rRNA
+ XR_007086096.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907639), rRNA
+ XR_007086097.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907640), rRNA
+ XR_007086098.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907641), rRNA
+ XR_007086099.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907642), rRNA
+ XR_007086100.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907643), rRNA
+ XR_007086103.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907645), rRNA
+ XR_007086104.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907646), rRNA
+ XR_007086105.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907647), rRNA
+ XR_007086106.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907648), rRNA
+ XR_007086108.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907649), rRNA
+ XR_007086109.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907650), rRNA
+ XR_007086110.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907651), rRNA
+ XR_007086111.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907652), rRNA
+ XR_007086112.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124907653), rRNA
+ XR_007090270.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908255), rRNA
+ XR_007090271.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908256), rRNA
+ XR_007090273.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908258), rRNA
+ XR_007090274.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908259), rRNA
+ XR_007090275.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908260), rRNA
+ XR_007090276.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908261), rRNA
+ XR_007090277.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908262), rRNA
+ XR_007090278.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908263), rRNA
+ XR_007090279.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908264), rRNA
+ XR_007090280.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908265), rRNA
+ XR_007090281.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908266), rRNA
+ XR_007090282.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908267), rRNA
+ XR_007090284.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908269), rRNA
+ XR_007090285.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908270), rRNA
+ XR_007090286.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908271), rRNA
+ XR_007090287.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908272), rRNA
+ XR_007090288.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908273), rRNA
+ XR_007090289.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908274), rRNA
+ XR_007090290.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908275), rRNA
+ XR_007090291.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908276), rRNA
+ XR_007090292.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908277), rRNA
+ XR_007090294.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908279), rRNA
+ XR_007090295.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908280), rRNA
+ XR_007090296.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908281), rRNA
+ XR_007090297.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908282), rRNA
+ XR_007090298.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908283), rRNA
+ XR_007090299.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908284), rRNA
+ XR_007090300.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908285), rRNA
+ XR_007090301.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908286), rRNA
+ XR_007090302.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908287), rRNA
+ XR_007090303.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908288), rRNA
+ XR_007090305.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908290), rRNA
+ XR_007090306.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908291), rRNA
+ XR_007090307.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908292), rRNA
+ XR_007090308.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908293), rRNA
+ XR_007090309.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908294), rRNA
+ XR_007090310.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908295), rRNA
+ XR_007090311.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908296), rRNA
+ XR_007090312.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908297), rRNA
+ XR_007090313.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908298), rRNA
+ XR_007090314.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908299), rRNA
+ XR_007090316.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908301), rRNA
+ XR_007090317.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908302), rRNA
+ XR_007090318.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908303), rRNA
+ XR_007090319.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908304), rRNA
+ XR_007090320.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908305), rRNA
+ XR_007090321.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908306), rRNA
+ XR_007090322.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908307), rRNA
+ XR_007090323.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908308), rRNA
+ XR_007090324.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908309), rRNA
+ XR_007090326.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908311), rRNA
+ XR_007090827.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908469), rRNA
+ XR_007090828.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908470), rRNA
+ XR_007090829.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908471), rRNA
+ XR_007090830.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908472), rRNA
+ XR_007090831.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908473), rRNA
+ XR_007090833.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908475), rRNA
+ XR_007090834.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908476), rRNA
+ XR_007090835.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908477), rRNA
+ XR_007090836.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908478), rRNA
+ XR_007090837.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908479), rRNA
+ XR_007090838.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908480), rRNA
+ XR_007090839.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908481), rRNA
+ XR_007090840.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908482), rRNA
+ XR_007090841.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908483), rRNA
+ XR_007090842.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908484), rRNA
+ XR_007090843.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908485), rRNA
+ XR_007090846.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908488), rRNA
+ XR_007090847.1 PREDICTED: Homo sapiens 18S ribosomal RNA (LOC124908489), rRNA
+ 6ZOL_2 Chain 2, 18S ribosomal RNA
+ 7MQ8_L1 Chain L1, 18S rRNA
+ 9KMT_2 Chain 2, 18S ribosomal RNA
+ 9KMU_2 Chain 2, 18S ribosomal RNA
+ 9KMV_2 Chain 2, 18S ribosomal RNA
+ 9KMW_2 Chain 2, 18S ribosomal RNA
+ 9KMX_2 Chain 2, 18S ribosomal RNA
+ 9KMY_2 Chain 2, 18S ribosomal RNA
+ 9KMZ_2 Chain 2, 18S ribosomal RNA
+ 9KN0_2 Chain 2, 18S ribosomal RNA
+ 9KKF_S2 Chain S2, 18S ribosomal RNA
+ 9KN5_S2 Chain S2, Chains: S2
+ 9KN6_S2 Chain S2, 18S ribosomal RNA
+ 9KRP_S2 Chain S2, 18S rRNA
+ 9KZU_S2 Chain S2, 18S ribosomal RNA
+ 9KZX_S2 Chain S2, 18S ribosomal RNA
+ 9RPV_S2 Chain S2, 18S rRNA of the collided 80S
+ 9I2E_S2 Chain S2, 18S rRNA
+Length=1869
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  625
+
+
+>AC231275.2 Homo sapiens FOSMID clone ABC12-46987300E12 from chromosome unknown, 
+complete sequence
+Length=39466
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1      CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+              ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  31307  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  31267
+
+
+>AK129999.1 Homo sapiens cDNA FLJ26489 fis, clone KDN05855
+Length=1930
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1     CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+             ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  1757  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  1717
+
+
+>9QLP_S2 Chain S2, 18S rRNA
+Length=1869
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  625
+
+
+>NG_054873.1 Homo sapiens RNA, 18S ribosomal pseudogene 4 (RNA18SP4) on chromosome 
+22
+Length=2069
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  765  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  725
+
+
+>U13369.1 Human ribosomal DNA complete repeating unit
+Length=42999
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1     CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+             ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  4321  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  4281
+
+
+>NR_046235.3 Homo sapiens RNA, 45S pre-ribosomal N5 (RNA45SN5), ribosomal 
+RNA
+Length=13357
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1     CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+             ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  4319  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  4279
+
+
+>NR_145820.1 Homo sapiens RNA, 18S ribosomal N1 (RNA18SN1), ribosomal RNA
+ NR_003286.4 Homo sapiens RNA, 18S ribosomal N5 (RNA18SN5), ribosomal RNA
+ 6ZM7_S2 Chain S2, 18S ribosomal RNA
+ 6ZME_S2 Chain S2, 18S ribosomal RNA
+ 6ZMI_S2 Chain S2, 18S ribosomal RNA
+ 6ZMO_S2 Chain S2, 18S ribosomal RNA
+Length=1869
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  625
+
+
+>6G18_2 Chain 2, pre-18S ribosomal RNA
+ 6ZXD_2 Chain 2, pre-18S ribosomal RNA
+ 6ZXE_2 Chain 2, pre-18S ribosomal RNA
+ 7WTS_2 Chain 2, 18S rRNA
+ 7WTX_2 Chain 2, 18S rRNA
+ 7WTZ_2 Chain 2, 18S rRNA
+ 7WU0_2 Chain 2, 18S rRNA
+Length=1873
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  625
+
+
+>5OA3_2 Chain 2, 18S ribosomal RNA
+Length=1868
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  625
+
+
+>MF164260.1 Homo sapiens clone BAC JH15 genomic sequence
+Length=44509
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1     CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+             ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  2497  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  2457
+
+
+>9S3D_S2 Chain S2, 18S rRNA
+Length=1869
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  625
+
+
+>MF164269.1 Homo sapiens clone BAC JH1 genomic sequence
+Length=162331
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1      CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+              ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  82389  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  82349
+
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1       CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+               ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  127227  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  127187
+
+
+>KY962518.1 Homo sapiens external transcribed spacer 18S ribosomal RNA gene, 
+internal transcribed spacer 1, 5.8S ribosomal RNA gene, 
+internal transcribed spacer 2, 28S ribosomal RNA gene, external 
+transcribed spacer, and CDC27-like protein pseudogene, complete 
+sequence
+Length=44838
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1     CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+             ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  4322  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  4282
+
+
+>MF164266.1 Homo sapiens clone BAC JH5 genomic sequence
+Length=44352
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1     CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+             ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  2243  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  2203
+
+
+>6ZVJ_2 Chain 2, 18S ribosomal RNA
+Length=1720
+
+ Score = 66.2 bits (72),  Expect = 1e-09
+ Identities = 39/41 (95%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  |||||||||||||||||||||||||||||||||
+Sbjct  588  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTACC  548
+
+
+>AC129664.7 Homo sapiens BAC clone RP11-237A9 from 4, complete sequence
+Length=183495
+
+ Score = 64.4 bits (70),  Expect = 4e-09
+ Identities = 38/40 (95%), Gaps = 0/40 (0%)
+ Strand=Plus/Plus
+
+Query  1       CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTAC  40
+               ||||||  ||||||||||||||||||||||||||||||||
+Sbjct  104195  CTGCAGCAACTTTAATATACGCTATTGGAGCTGGAATTAC  104234
+
+
+>9BKD_A Chain A, 18S rRNA
+ 9BLN_A Chain A, rRNA
+Length=1719
+
+ Score = 62.6 bits (68),  Expect = 1e-08
+ Identities = 38/41 (93%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  ||||||||||||| |||||||||||||||||||
+Sbjct  599  CTGCAGCAACTTTAATATACGNTATTGGAGCTGGAATTACC  559
+
+
+>6YBW_A Chain A, 18S rRNA
+ 6ZMW_A Chain A, 18S rRNA
+ 6YBS_A Chain A, 18S rRNA
+Length=1869
+
+ Score = 62.6 bits (68),  Expect = 1e-08
+ Identities = 38/41 (93%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  ||||||||||||| |||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGNTATTGGAGCTGGAATTACC  625
+
+
+>8PJ1_A Chain A, 18S rRNA
+ 8PJ2_A Chain A, 18S rRNA
+ 8PJ3_A Chain A, 18S rRNA
+ 8PJ4_A Chain A, 18S rRNA
+ 8PJ5_A Chain A, 18S rRNA
+ 8PJ6_A Chain A, 18S rRNA
+ 8RG0_A Chain A, 18S rRNA
+Length=1869
+
+ Score = 62.6 bits (68),  Expect = 1e-08
+ Identities = 38/41 (93%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  ||||||||||||| |||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGNTATTGGAGCTGGAATTACC  625
+
+
+>7XNY_S2 Chain S2, 18S rRNA
+Length=1869
+
+ Score = 62.6 bits (68),  Expect = 1e-08
+ Identities = 38/41 (93%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  ||||||||||||| |||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGNTATTGGAGCTGGAATTACC  625
+
+
+>7XNX_S2 Chain S2, 18S rRNA
+Length=1869
+
+ Score = 62.6 bits (68),  Expect = 1e-08
+ Identities = 38/41 (93%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  ||||||||||||| |||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGNTATTGGAGCTGGAATTACC  625
+
+
+>6QZP_S2 Chain S2, 18S rRNA (1740-MER)
+Length=1740
+
+ Score = 62.6 bits (68),  Expect = 1e-08
+ Identities = 38/41 (93%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  ||||||||||||| |||||||||||||||||||
+Sbjct  604  CTGCAGCAACTTTAATATACGNTATTGGAGCTGGAATTACC  564
+
+
+>7QP6_A Chain A, 18S rRNA
+ 7QP7_A Chain A, 18S rRNA
+Length=1869
+
+ Score = 62.6 bits (68),  Expect = 1e-08
+ Identities = 38/41 (93%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  ||||||||||||| |||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGNTATTGGAGCTGGAATTACC  625
+
+
+>8OZ0_W Chain W, 18S rRNA
+Length=1719
+
+ Score = 62.6 bits (68),  Expect = 1e-08
+ Identities = 38/41 (93%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  ||||||||||||| |||||||||||||||||||
+Sbjct  599  CTGCAGCAACTTTAATATACGNTATTGGAGCTGGAATTACC  559
+
+
+>6OLE_S2 Chain S2, 18S ribosomal RNA
+ 6OLF_S2 Chain S2, 18S ribosomal RNA
+ 6OLI_S2 Chain S2, 18S ribosomal RNA
+ 6OM0_S2 Chain S2, 18S ribosomal RNA
+ 6OM7_S2 Chain S2, 18S ribosomal RNA
+Length=1714
+
+ Score = 62.6 bits (68),  Expect = 1e-08
+ Identities = 38/41 (93%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  ||||||||||||| |||||||||||||||||||
+Sbjct  604  CTGCAGCAACTTTAATATACGNTATTGGAGCTGGAATTACC  564
+
+
+>6EK0_S2 Chain S2, 18S ribosomal RNA
+Length=1869
+
+ Score = 62.6 bits (68),  Expect = 1e-08
+ Identities = 38/41 (93%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  ||||||||||||| |||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGNTATTGGAGCTGGAATTACC  625
+
+
+>9I14_S2 Chain S2, SSU 18S rRNA
+Length=1869
+
+ Score = 62.6 bits (68),  Expect = 1e-08
+ Identities = 38/41 (93%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            ||||||  ||||||||||||| |||||||||||||||||||
+Sbjct  665  CTGCAGCAACTTTAATATACGNTATTGGAGCTGGAATTACC  625
+
+
+>NG_055292.1 Homo sapiens RNA, 18S ribosomal pseudogene (LOC110467534) on 
+chromosome 22
+Length=2049
+
+ Score = 61.7 bits (67),  Expect = 5e-08
+ Identities = 38/41 (93%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            |||||   |||||||||||||||||||||||||||||||||
+Sbjct  765  CTGCAACAACTTTAATATACGCTATTGGAGCTGGAATTACC  725
+
+
+>NG_055294.1 Homo sapiens RNA, 18S ribosomal pseudogene (LOC110467536) on 
+chromosome 14
+Length=2054
+
+ Score = 61.7 bits (67),  Expect = 5e-08
+ Identities = 38/41 (93%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            |||||   |||||||||||||||||||||||||||||||||
+Sbjct  765  CTGCAACAACTTTAATATACGCTATTGGAGCTGGAATTACC  725
+
+
+>JX132355.1 Homo sapiens isolate CEss668 18S ribosomal RNA gene, partial 
+sequence
+Length=1082
+
+ Score = 61.7 bits (67),  Expect = 5e-08
+ Identities = 38/41 (93%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1   CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+           |||||   |||||||||||||||||||||||||||||||||
+Sbjct  42  CTGCAACAACTTTAATATACGCTATTGGAGCTGGAATTACC  2
+
+
+>NG_055291.1 Homo sapiens RNA, 18S ribosomal pseudogene (LOC110467533) on 
+chromosome 2
+Length=2049
+
+ Score = 61.7 bits (67),  Expect = 5e-08
+ Identities = 38/41 (93%), Gaps = 0/41 (0%)
+ Strand=Plus/Minus
+
+Query  1    CTGCAGTGACTTTAATATACGCTATTGGAGCTGGAATTACC  41
+            |||||   |||||||||||||||||||||||||||||||||
+Sbjct  766  CTGCAACAACTTTAATATACGCTATTGGAGCTGGAATTACC  726
+
+
+  Database: Core nucleotide BLAST database
+    Posted date:  Feb 26, 2026  1:27 AM
+  Number of letters in database: 8,682,138,755
+  Number of sequences in database:  1,299,461
+
+Lambda      K        H
+   0.634    0.408    0.912 
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+Matrix: blastn matrix:2 -3
+Gap Penalties: Existence: 5, Extension: 2
+Number of Sequences: 1299461
+Number of Hits to DB: 29252
+Number of extensions: 23
+Number of successful extensions: 23
+Number of sequences better than 10: 1
+Number of HSP's better than 10 without gapping: 0
+Number of HSP's gapped: 23
+Number of HSP's successfully gapped: 1
+Length of query: 41
+Length of database: 8682138755
+Length adjustment: 29
+Effective length of query: 12
+Effective length of database: 8644454386
+Effective search space: 103733452632
+Effective search space used: 103733452632
+A: 0
+X1: 22 (20.1 bits)
+X2: 33 (29.8 bits)
+X3: 110 (99.2 bits)
+S1: 28 (26.5 bits)
+S2: 36 (33.7 bits)
+
+

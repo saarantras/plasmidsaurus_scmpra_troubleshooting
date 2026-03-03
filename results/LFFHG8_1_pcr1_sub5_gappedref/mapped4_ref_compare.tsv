@@ -1,0 +1,5 @@
+read_id	orig_identity	gapped_identity	delta_identity	orig_query_cov	gapped_query_cov	delta_query_cov	orig_ref_span	gapped_ref_span
+3446_LFFHG8_1	0.9700	0.9701	+0.0001	0.9865	0.9865	+0.0000	300	300
+3685_LFFHG8_1	0.8563	0.9338	+0.0775	0.6523	0.6523	+0.0000	163	163
+3741_LFFHG8_1	1.0000	0.9397	-0.0603	0.2454	0.3957	+0.1503	80	128
+795_LFFHG8_1	0.9864	0.9842	-0.0021	0.9973	0.9973	+0.0000	367	367

@@ -1,0 +1,9 @@
+gblock_f1r1_copy	0	22	primer	F1 primer	+	4	22	22	1.0000000
+gblock_f1r1_copy	32	48	misc_feature	MPRA_barcode	+	4	16	16	1.0000000
+gblock_f1r1_copy	107	227	misc_feature	terminator	+	4	120	120	1.0000000
+gblock_f1r1_copy	241	254	misc_feature	pA	+	2	13	13	1.0000000
+gblock_f1r1_copy	254	340	misc_feature	parse_biosciences_extra	-	2	86	86	1.0000000
+gblock_f1r1_copy	262	284	misc_feature	L1	-	2	22	22	1.0000000
+gblock_f1r1_copy	292	322	misc_feature	L2	-	2	30	30	1.0000000
+gblock_f1r1_copy	347	367	primer	R1 primer	-	1	20	20	1.0000000
+gblock_f1r1_copy	348	367	primer	R3 primer	-	1	19	19	1.0000000
